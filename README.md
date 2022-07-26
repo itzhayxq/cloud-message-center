@@ -25,6 +25,8 @@ cloudmessage.consumer-group-name = 消息组唯一标识
 
 
 
+
+
 3.本地程序监听
 
 注意：消息的TOPIC为：topic_zstar-加上应用的密钥（从应用中心查找）
